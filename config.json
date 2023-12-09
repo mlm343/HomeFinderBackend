@@ -1,0 +1,9 @@
+{
+  "rds_host": "cis5500project.cuvykwn06q1d.us-east-1.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "delyDB",
+  "rds_password": "bravewhale",
+  "rds_db": "DELYDB",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
